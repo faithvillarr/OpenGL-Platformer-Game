@@ -5,4 +5,4 @@ Press P to pause.
 Press R to restart the level. 
 Press Q to quit. 
 
-**HINT: Bait the enemy and wait for them to fall. **
+**HINT: Bait the enemy and wait for them to fall. Then  attempt the jump.**
